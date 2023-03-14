@@ -1,0 +1,26 @@
+body {
+	padding: 20px;
+	background-color: peru;
+}
+
+h1,
+h3,
+p {
+	text-align: center;
+}
+
+a {
+	display: block;
+	margin: 0 auto;
+	color: white;
+	text-align: center;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+}
+
+p a {
+	display: inline;
+}
